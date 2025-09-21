@@ -38,7 +38,7 @@ sudo apt-get install fakeroot rpm
 1. **Clone the repository:**
 ```bash
 git clone https://github.com/dwip-the-dev/web2app.git
-cd web2app-builder
+cd web2app
 ```
 
 2. **Create a virtual environment (recommended):**
